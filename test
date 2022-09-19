@@ -1,1 +1,3 @@
 <h1> welcome</h1>
+<textarea class="form-control file-editor-textarea js-blob-contents js-code-textarea " rows="35" name="value" data-filename="test" data-codemirror-mode="" data-allow-unchanged="" data-hotkey-scope-id="code-editor" data-codemirror-fixed-height="true" placeholder="Enter file contents here" aria-label="Enter file contents here" spellcheck="false" autofocus="" style="display: none;">&lt;h1&gt; welcome&lt;/h1&gt;
+</textarea>
